@@ -1,0 +1,22 @@
+{"intents": [
+        {"tag": "AI",
+         "patterns": ["generative ai", "neural network", "deep learning","natural language processing","recomendation system", "spam detection", "tenserflow"],
+         "responses": ["Ms.V.Vijayalakshmi | DEPT: NWC | Cabin: TP509", "Good to see you again", "Hi there, how can I help?"],
+         "context": [""]
+        },
+        {"tag": "CN",
+         "patterns": ["TCP/IP", "Routing", "Goodbye", "SMTP", "OSI Model","Packet Tracer"],
+         "responses": ["Dr.G.Geetha | DEPT: NWC | Cabin: TP201", "Dr. Godwin Ponsam J | DEPT: NWC | Cabin: TP504", " again soon."],
+         "context": [""]
+        },
+        {"tag": "Cybersecurity",
+         "patterns": ["network security", "Cryptography", "Biometrics", "Phishing", "Encryption"],
+         "responses": ["Dr. Annapurani Panaiyappan K | DEPT: NWC | Cabin: TP403", "Dr. Jeyaselvi M | DEPT: NWC | Cabin: TP209"],
+         "context": [""]
+        },
+        {"tag": "placement",
+         "patterns": ["resume","Mock Interview", "Communication skills"],
+         "responses": ["Ms.B.Jananipriyadharshini | DEPT: Humanities | Cabin: UB601"],
+         "context": [""]
+        }
+    ]}
